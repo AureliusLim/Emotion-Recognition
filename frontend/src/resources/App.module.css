@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Kameron');
+.topHeader{
+  text-align :center;
+  margin: auto;
+  background-color: #78B7B8;
+}
+.topHeader b,
+.topHeader p{
+  font-family: 'Kameron'; 
+  font-size: 15px;
+}
+.introT{
+  text-align:center;
+  margin:auto;
+  font-weight: bold;
+  font-family: 'Kameron'; 
+  font-size: 15px; 
+}
+.emojicontainer {
+  display:flex;
+  justify-content: space-around;
+}
+.imagecontainer{
+  justify-content: center;
+  margin:auto;
+  width:597px;
+  height:347px;
+  background-color: #F6F6F6;
+}
+.imageroot div{
+  height:347px;
+}
+.beforeImage{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+.beforeImage img{
+  width: 109px;
+  height:109px;
+  opacity: 0.5;
+}
+
+.beforeImage p{
+  font-family: 'Kameron'; 
+  font-size: 40px;
+  font-weight: lighter;
+}
+.afterImage{
+  display:flex;
+}
