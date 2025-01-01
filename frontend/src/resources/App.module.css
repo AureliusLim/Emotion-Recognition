@@ -50,3 +50,10 @@
 .afterImage{
   display:flex;
 }
+.resultText{
+  text-align:center;
+  margin:auto;
+  font-weight: bold;
+  font-family: 'Kameron'; 
+  font-size: 30px; 
+}

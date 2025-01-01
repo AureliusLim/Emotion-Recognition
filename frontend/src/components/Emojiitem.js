@@ -4,7 +4,7 @@ const Emojiitem = (props) =>{
 return(
 <div>
     <img src={props.image}></img>
-    <p>0%</p>
+    <p>{props.percentage}%</p>
 </div>
 );
 }

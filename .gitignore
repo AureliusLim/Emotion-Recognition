@@ -5,3 +5,4 @@ logs
 data/test/
 data/train/
 data/val/
+frontend/node_modules
